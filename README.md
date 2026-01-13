@@ -13,7 +13,8 @@ The focus is on understanding the methodology, implementation, and evaluation pr
 
 ```
 .
-├── pos-tagging        # POS Tagging assignment
+├── 1-text-processing-llm   # Text Processing LLM assignment
+├── 2-pos-tagging           # POS Tagging assignment
 └── README.md
 ```
 
